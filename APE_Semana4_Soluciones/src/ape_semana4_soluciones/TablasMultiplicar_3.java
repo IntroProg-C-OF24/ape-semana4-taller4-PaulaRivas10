@@ -22,4 +22,5 @@ public class TablasMultiplicar_3 {
 
         teclado.close();
 }
+}
       
